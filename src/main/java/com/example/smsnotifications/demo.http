@@ -1,0 +1,7 @@
+POST http://localhost:8080/send-sms-message
+Content-Type: application/json
+
+{
+  "phoneNumber": "+359895439539",
+  "message": "Pa4o polu4i li?"
+}
